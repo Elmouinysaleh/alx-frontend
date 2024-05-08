@@ -3,33 +3,17 @@
 
 HTMLCSSFront-end
 
-*   Weight: 1
-*   Project will start May 8, 2024 4:00 AM, must end by May 9, 2024 4:00 AM
-*   Checker was released at May 8, 2024 10:00 AM
-*   **Manual QA review must be done** (request it when you are done with the project)
-*   An auto review will be launched at the deadline
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/0872ca9b19e11650e355.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T190121Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d66ddddacd5e6673bca61084301e76c8720ce6c9ed1189f69c81db1e140a5e28)
+![0872ca9b19e11650e355](https://github.com/Elmouinysaleh/alx-frontend/assets/36488900/df287dce-5fca-4b53-a13b-9f3d967830c7)
 
-In this project, you will analyze this website [https://dev-tools.alx-tools.com/](/rltoken/sJ-OqYvXD5iZZXmQIy1VfA "https://dev-tools.alx-tools.com/").
+
+In this project, you will analyze this website [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com).
 
 Resources
 ---------
 
-**Read or watch**:
 
-*   [Chrome DevTools | Tools for Web Developers | Google Developers](/rltoken/sHhkeh4mpyReQpLUE2yp-g "Chrome DevTools  |  Tools for Web Developers  |  Google Developers")
-*   [Introduction | Down and Dirty with Chrome Developer Tools](/rltoken/NMYYMG44e0dZ2eb5uR4iUQ "Introduction | Down and Dirty with Chrome Developer Tools")
-*   [Firefox Developer Tools | MDN](/rltoken/If7a66qWg4qxhKuNPRoJCw "Firefox Developer Tools | MDN")
-*   [Dev Tips - Developer Tips by Umar Hansa](/rltoken/rdGj_NA-X--rwekzt9bffQ "Dev Tips - Developer Tips by Umar Hansa")
-*   [Get Started With Viewing And Changing CSS | Tools for Web Developers](/rltoken/jvmzv58GJjKtSeACErHmWQ "Get Started With Viewing And Changing CSS  |  Tools for Web Developers")
-*   [Keeping it simple with the JavaScript console - LogRocket Blog](/rltoken/UiqZ7pmI5L7BMr3ZaG4Bow "Keeping it simple with the JavaScript console - LogRocket Blog")
-*   [Inspect Network Activity - Chrome DevTools 101](/rltoken/I_IHgn0hsaB1kee6RgU1SQ "Inspect Network Activity - Chrome DevTools 101")
 
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](/rltoken/dwjk75rRXLFZx8MjuL1uww "explain to anyone"), **without the help of Google**:
 
 ### General
 
